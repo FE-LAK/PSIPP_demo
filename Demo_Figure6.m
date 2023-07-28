@@ -1,5 +1,3 @@
-% Figure 6 experiments
-
 close all
 clear all
 clc

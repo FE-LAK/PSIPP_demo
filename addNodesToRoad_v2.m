@@ -292,4 +292,3 @@ function [new_nodes] = addNodesToRoad_v2(obj, roadID, interval, mode, d_min)
         end
     end
 end
-
