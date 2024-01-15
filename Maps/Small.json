@@ -1,0 +1,259 @@
+{
+  "worlds": [
+    {
+      "edges": [
+        {
+          "id": 102,
+          "from": 1,
+          "to": 2,
+          "shape": [
+            [
+              "L",
+              1,
+              5,
+              3,
+              5
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 304,
+          "from": 3,
+          "to": 4,
+          "shape": [
+            [
+              "L",
+              6,
+              5,
+              7,
+              5
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 506,
+          "from": 5,
+          "to": 6,
+          "shape": [
+            [
+              "L",
+              1,
+              3,
+              3,
+              3
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+       {
+          "id": 708,
+          "from": 7,
+          "to": 8,
+          "shape": [
+            [
+              "L",
+              1,
+              1,
+              3,
+              1
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+       {
+          "id": 9010,
+          "from": 9,
+          "to": 10,
+          "shape": [
+            [
+              "L",
+              5,
+              1,
+              7,
+              1
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+       {
+          "id": 4010,
+          "from": 4,
+          "to": 10,
+          "shape": [
+            [
+              "L",
+              7,
+              5,
+              7,
+              1
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+       {
+          "id": 8011,
+          "from": 8,
+          "to": 11,
+          "shape": [
+            [
+              "L",
+              3,
+              1,
+              3.857,
+              2.143
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+     {
+          "id": 1103,
+          "from": 11,
+          "to": 3,
+          "shape": [
+            [
+              "L",
+              3.857,
+              2.143,
+              6,
+              5
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+     {
+          "id": 206,
+          "from": 2,
+          "to": 6,
+          "shape": [
+            [
+              "L",
+              3,
+              5,
+              3,
+              3
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+    {
+          "id": 6012,
+          "from": 6,
+          "to": 12,
+          "shape": [
+            [
+              "L",
+              3,
+              3,
+              3.857,
+              2.143
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+      {
+          "id": 1209,
+          "from": 12,
+          "to": 9,
+          "shape": [
+            [
+              "L",
+              3.857,
+              2.143,
+              5,
+              1
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+       {
+          "id": 507,
+          "from": 5,
+          "to": 7,
+          "shape": [
+            [
+              "L",
+              1,
+              3,
+              1,
+              1
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        }
+      ],
+      "nodes": [
+        {
+          "id": 11,
+          "location": [
+            3.857,
+            2.143
+          ],
+          "nearbyNode": [12]
+        },
+        {
+          "id": 12,
+          "location": [
+            3.857,
+            2.143
+          ],
+          "nearbyNode": [11]
+        }
+      ],
+      "roads": [],
+      "id": 0,
+      "backgroundImageFile": "",
+      "backgroundImageOrigin": [
+        0,
+        0
+      ],
+      "backgroundImageScale": 1
+    }
+  ],
+  "agvs": [],
+  "plans": [],
+  "settings": {
+    "start": 0,
+    "end": 0,
+    "step": 0.1
+  },
+  "tasks": [],
+  "stations": []
+}

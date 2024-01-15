@@ -1,0 +1,6524 @@
+{
+  "worlds": [
+    {
+      "edges": [
+        {
+          "id": 1,
+          "from": 3,
+          "to": 174,
+          "shape": [
+            [
+              "L",
+              182.58665,
+              61.57806,
+              190.32118,
+              67.71784
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 3,
+          "from": 3,
+          "to": 191,
+          "shape": [
+            [
+              "L",
+              182.58665,
+              61.57806,
+              178.51552,
+              90.51398
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 5,
+          "from": 6,
+          "to": 5,
+          "shape": [
+            [
+              "L",
+              153.48146,
+              157.93962,
+              172.517,
+              133.363
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 13,
+          "from": 9,
+          "to": 2,
+          "shape": [
+            [
+              "L",
+              56.7835,
+              81.6616,
+              68,
+              55
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 21,
+          "from": 12,
+          "to": 190,
+          "shape": [
+            [
+              "L",
+              93.7116,
+              225.26,
+              119.41982,
+              225.62093
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 23,
+          "from": 12,
+          "to": 202,
+          "shape": [
+            [
+              "L",
+              93.7116,
+              225.26,
+              81.13139,
+              202.36931
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 25,
+          "from": 14,
+          "to": 1,
+          "shape": [
+            [
+              "L",
+              96.9881,
+              165.795,
+              70,
+              182
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 29,
+          "from": 16,
+          "to": 17,
+          "shape": [
+            [
+              "L",
+              41.41948,
+              162.3236,
+              35.011875,
+              188.08783
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 37,
+          "from": 19,
+          "to": 15,
+          "shape": [
+            [
+              "L",
+              74.66009,
+              217.21178,
+              67.1991,
+              234.444
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 39,
+          "from": 19,
+          "to": 12,
+          "shape": [
+            [
+              "L",
+              74.66009,
+              217.21178,
+              93.7116,
+              225.26
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 43,
+          "from": 1,
+          "to": 199,
+          "shape": [
+            [
+              "L",
+              70,
+              182,
+              73.56025,
+              210.68437
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 45,
+          "from": 20,
+          "to": 21,
+          "shape": [
+            [
+              "L",
+              162.98,
+              55.0542,
+              158.818,
+              58.2066
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 47,
+          "from": 20,
+          "to": 3,
+          "shape": [
+            [
+              "L",
+              162.98,
+              55.0542,
+              182.58665,
+              61.57806
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 49,
+          "from": 22,
+          "to": 4,
+          "shape": [
+            [
+              "L",
+              230.26,
+              90.7881,
+              209.811,
+              83.0826
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 53,
+          "from": 24,
+          "to": 25,
+          "shape": [
+            [
+              "L",
+              116.394,
+              84.6485,
+              101.552,
+              79.969
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 55,
+          "from": 24,
+          "to": 11,
+          "shape": [
+            [
+              "L",
+              116.394,
+              84.6485,
+              144.64026,
+              94.16368
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 57,
+          "from": 26,
+          "to": 2,
+          "shape": [
+            [
+              "L",
+              76.7692,
+              48.3116,
+              68,
+              55
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 61,
+          "from": 28,
+          "to": 29,
+          "shape": [
+            [
+              "L",
+              227.13,
+              215.965,
+              205.565,
+              209.281
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 63,
+          "from": 28,
+          "to": 8,
+          "shape": [
+            [
+              "L",
+              227.13,
+              215.965,
+              235.526,
+              186.343
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 65,
+          "from": 30,
+          "to": 31,
+          "shape": [
+            [
+              "L",
+              182.61551,
+              32.109646,
+              203.687,
+              36.6237
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 71,
+          "from": 33,
+          "to": 194,
+          "shape": [
+            [
+              "L",
+              154.31168,
+              220.33745,
+              142.8335,
+              210.36102
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 79,
+          "from": 37,
+          "to": 17,
+          "shape": [
+            [
+              "L",
+              19.243204,
+              177.00198,
+              35.011875,
+              188.08783
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 81,
+          "from": 37,
+          "to": 18,
+          "shape": [
+            [
+              "L",
+              19.243204,
+              177.00198,
+              7.6208806,
+              192.59631
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 83,
+          "from": 38,
+          "to": 10,
+          "shape": [
+            [
+              "L",
+              98.1634,
+              108.617,
+              86.7783,
+              93.071
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 89,
+          "from": 37,
+          "to": 16,
+          "shape": [
+            [
+              "L",
+              19.243204,
+              177.00198,
+              41.41948,
+              162.3236
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 91,
+          "from": 39,
+          "to": 40,
+          "shape": [
+            [
+              "L",
+              35.0775,
+              71.9079,
+              32.4606,
+              76.6575
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 93,
+          "from": 39,
+          "to": 9,
+          "shape": [
+            [
+              "L",
+              35.0775,
+              71.9079,
+              56.7835,
+              81.6616
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 95,
+          "from": 41,
+          "to": 29,
+          "shape": [
+            [
+              "L",
+              210.159,
+              194.672,
+              205.565,
+              209.281
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 97,
+          "from": 41,
+          "to": 8,
+          "shape": [
+            [
+              "L",
+              210.159,
+              194.672,
+              235.526,
+              186.343
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 99,
+          "from": 42,
+          "to": 186,
+          "shape": [
+            [
+              "L",
+              169.04478,
+              93.08733,
+              160.87085,
+              93.44975
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 101,
+          "from": 42,
+          "to": 3,
+          "shape": [
+            [
+              "L",
+              169.04478,
+              93.08733,
+              182.58665,
+              61.57806
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 103,
+          "from": 42,
+          "to": 5,
+          "shape": [
+            [
+              "L",
+              169.04478,
+              93.08733,
+              172.517,
+              133.363
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 105,
+          "from": 43,
+          "to": 44,
+          "shape": [
+            [
+              "L",
+              14.3738,
+              210.365,
+              20.79715,
+              211.23264
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 107,
+          "from": 43,
+          "to": 18,
+          "shape": [
+            [
+              "L",
+              14.3738,
+              210.365,
+              7.6208806,
+              192.59631
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 109,
+          "from": 45,
+          "to": 46,
+          "shape": [
+            [
+              "L",
+              155.4976,
+              18.670944,
+              151.744,
+              31.7843
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 113,
+          "from": 47,
+          "to": 48,
+          "shape": [
+            [
+              "L",
+              137.938,
+              18.7257,
+              138.736,
+              30.3652
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 115,
+          "from": 47,
+          "to": 45,
+          "shape": [
+            [
+              "L",
+              137.938,
+              18.7257,
+              155.4976,
+              18.670944
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 117,
+          "from": 49,
+          "to": 50,
+          "shape": [
+            [
+              "L",
+              131.931,
+              46.0468,
+              129.688,
+              23.9281
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 121,
+          "from": 51,
+          "to": 27,
+          "shape": [
+            [
+              "L",
+              107.885,
+              44.8504,
+              103.873,
+              33.0019
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 125,
+          "from": 52,
+          "to": 7,
+          "shape": [
+            [
+              "L",
+              165.245,
+              178.969,
+              180.401,
+              184.937
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 129,
+          "from": 54,
+          "to": 30,
+          "shape": [
+            [
+              "L",
+              181.8873,
+              19.7491,
+              182.61551,
+              32.109646
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 133,
+          "from": 55,
+          "to": 49,
+          "shape": [
+            [
+              "L",
+              131.741,
+              49.8046,
+              131.931,
+              46.0468
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 137,
+          "from": 57,
+          "to": 192,
+          "shape": [
+            [
+              "L",
+              187.237,
+              88.1446,
+              178.51552,
+              90.51398
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 139,
+          "from": 57,
+          "to": 4,
+          "shape": [
+            [
+              "L",
+              187.237,
+              88.1446,
+              209.811,
+              83.0826
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 141,
+          "from": 52,
+          "to": 6,
+          "shape": [
+            [
+              "L",
+              165.245,
+              178.969,
+              153.48146,
+              157.93962
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 143,
+          "from": 58,
+          "to": 14,
+          "shape": [
+            [
+              "L",
+              111.929,
+              165.485,
+              96.9881,
+              165.795
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 145,
+          "from": 58,
+          "to": 53,
+          "shape": [
+            [
+              "L",
+              111.929,
+              165.485,
+              130.232,
+              173.01123
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 147,
+          "from": 59,
+          "to": 60,
+          "shape": [
+            [
+              "L",
+              127.234,
+              60.8407,
+              120.835,
+              57.5275
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 149,
+          "from": 59,
+          "to": 61,
+          "shape": [
+            [
+              "L",
+              127.234,
+              60.8407,
+              128.07,
+              69.128
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 151,
+          "from": 57,
+          "to": 3,
+          "shape": [
+            [
+              "L",
+              187.237,
+              88.1446,
+              182.58665,
+              61.57806
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 153,
+          "from": 62,
+          "to": 25,
+          "shape": [
+            [
+              "L",
+              100.69,
+              92.0226,
+              101.552,
+              79.969
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 157,
+          "from": 63,
+          "to": 53,
+          "shape": [
+            [
+              "L",
+              136.577,
+              173.873,
+              130.232,
+              173.01123
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 159,
+          "from": 63,
+          "to": 6,
+          "shape": [
+            [
+              "L",
+              136.577,
+              173.873,
+              153.48146,
+              157.93962
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 161,
+          "from": 38,
+          "to": 62,
+          "shape": [
+            [
+              "L",
+              98.1634,
+              108.617,
+              100.69,
+              92.0226
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 163,
+          "from": 26,
+          "to": 198,
+          "shape": [
+            [
+              "L",
+              76.7692,
+              48.3116,
+              86.624725,
+              47.21531
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 165,
+          "from": 64,
+          "to": 31,
+          "shape": [
+            [
+              "L",
+              205.40683,
+              45.317642,
+              203.687,
+              36.6237
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 167,
+          "from": 64,
+          "to": 65,
+          "shape": [
+            [
+              "L",
+              205.40683,
+              45.317642,
+              216.898,
+              39.772
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 171,
+          "from": 67,
+          "to": 46,
+          "shape": [
+            [
+              "L",
+              149.03662,
+              27.781708,
+              151.744,
+              31.7843
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 175,
+          "from": 68,
+          "to": 62,
+          "shape": [
+            [
+              "L",
+              108.278,
+              95.7115,
+              100.69,
+              92.0226
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 177,
+          "from": 68,
+          "to": 24,
+          "shape": [
+            [
+              "L",
+              108.278,
+              95.7115,
+              116.394,
+              84.6485
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 179,
+          "from": 11,
+          "to": 68,
+          "shape": [
+            [
+              "L",
+              144.64026,
+              94.16368,
+              108.278,
+              95.7115
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 181,
+          "from": 68,
+          "to": 38,
+          "shape": [
+            [
+              "L",
+              108.278,
+              95.7115,
+              98.1634,
+              108.617
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 183,
+          "from": 28,
+          "to": 41,
+          "shape": [
+            [
+              "L",
+              227.13,
+              215.965,
+              210.159,
+              194.672
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 185,
+          "from": 45,
+          "to": 67,
+          "shape": [
+            [
+              "L",
+              155.4976,
+              18.670944,
+              149.03662,
+              27.781708
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 187,
+          "from": 69,
+          "to": 6,
+          "shape": [
+            [
+              "L",
+              132.127,
+              150.251,
+              153.48146,
+              157.93962
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 189,
+          "from": 69,
+          "to": 53,
+          "shape": [
+            [
+              "L",
+              132.127,
+              150.251,
+              130.232,
+              173.01123
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 193,
+          "from": 70,
+          "to": 31,
+          "shape": [
+            [
+              "L",
+              206.714,
+              35.7744,
+              203.687,
+              36.6237
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 195,
+          "from": 70,
+          "to": 66,
+          "shape": [
+            [
+              "L",
+              206.714,
+              35.7744,
+              205.433,
+              29.5383
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 197,
+          "from": 71,
+          "to": 49,
+          "shape": [
+            [
+              "L",
+              143.839,
+              36.607,
+              131.931,
+              46.0468
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 201,
+          "from": 72,
+          "to": 73,
+          "shape": [
+            [
+              "L",
+              14.594036,
+              139.81046,
+              8.1377,
+              146.704
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 205,
+          "from": 58,
+          "to": 69,
+          "shape": [
+            [
+              "L",
+              111.929,
+              165.485,
+              132.127,
+              150.251
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 207,
+          "from": 74,
+          "to": 65,
+          "shape": [
+            [
+              "L",
+              219.471,
+              32.8135,
+              216.898,
+              39.772
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 209,
+          "from": 74,
+          "to": 70,
+          "shape": [
+            [
+              "L",
+              219.471,
+              32.8135,
+              206.714,
+              35.7744
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 211,
+          "from": 75,
+          "to": 76,
+          "shape": [
+            [
+              "L",
+              87.0108,
+              58.5298,
+              97.7164,
+              56.1034
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 213,
+          "from": 75,
+          "to": 26,
+          "shape": [
+            [
+              "L",
+              87.0108,
+              58.5298,
+              76.7692,
+              48.3116
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 215,
+          "from": 69,
+          "to": 63,
+          "shape": [
+            [
+              "L",
+              132.127,
+              150.251,
+              136.577,
+              173.873
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 217,
+          "from": 48,
+          "to": 67,
+          "shape": [
+            [
+              "L",
+              138.736,
+              30.3652,
+              149.03662,
+              27.781708
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 219,
+          "from": 77,
+          "to": 3,
+          "shape": [
+            [
+              "L",
+              191.76787,
+              58.212322,
+              182.58665,
+              61.57806
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 223,
+          "from": 79,
+          "to": 10,
+          "shape": [
+            [
+              "L",
+              85.0293,
+              83.5585,
+              86.7783,
+              93.071
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 225,
+          "from": 79,
+          "to": 25,
+          "shape": [
+            [
+              "L",
+              85.0293,
+              83.5585,
+              101.552,
+              79.969
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 229,
+          "from": 63,
+          "to": 52,
+          "shape": [
+            [
+              "L",
+              136.577,
+              173.873,
+              165.245,
+              178.969
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 231,
+          "from": 80,
+          "to": 16,
+          "shape": [
+            [
+              "L",
+              52.008614,
+              154.97403,
+              41.41948,
+              162.3236
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 235,
+          "from": 80,
+          "to": 14,
+          "shape": [
+            [
+              "L",
+              52.008614,
+              154.97403,
+              96.9881,
+              165.795
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 237,
+          "from": 82,
+          "to": 62,
+          "shape": [
+            [
+              "L",
+              93.9444,
+              86.175,
+              100.69,
+              92.0226
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 239,
+          "from": 82,
+          "to": 79,
+          "shape": [
+            [
+              "L",
+              93.9444,
+              86.175,
+              85.0293,
+              83.5585
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 241,
+          "from": 83,
+          "to": 32,
+          "shape": [
+            [
+              "L",
+              162.475,
+              35.6793,
+              157.381,
+              33.2821
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 245,
+          "from": 84,
+          "to": 65,
+          "shape": [
+            [
+              "L",
+              213.286,
+              39.6163,
+              216.898,
+              39.772
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 247,
+          "from": 84,
+          "to": 70,
+          "shape": [
+            [
+              "L",
+              213.286,
+              39.6163,
+              206.714,
+              35.7744
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 251,
+          "from": 85,
+          "to": 82,
+          "shape": [
+            [
+              "L",
+              92.0381,
+              91.0784,
+              93.9444,
+              86.175
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 253,
+          "from": 85,
+          "to": 10,
+          "shape": [
+            [
+              "L",
+              92.0381,
+              91.0784,
+              86.7783,
+              93.071
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 255,
+          "from": 30,
+          "to": 83,
+          "shape": [
+            [
+              "L",
+              182.61551,
+              32.109646,
+              162.475,
+              35.6793
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 261,
+          "from": 4,
+          "to": 77,
+          "shape": [
+            [
+              "L",
+              209.811,
+              83.0826,
+              191.76787,
+              58.212322
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 263,
+          "from": 87,
+          "to": 30,
+          "shape": [
+            [
+              "L",
+              181.60324,
+              41.529114,
+              182.61551,
+              32.109646
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 265,
+          "from": 87,
+          "to": 77,
+          "shape": [
+            [
+              "L",
+              181.60324,
+              41.529114,
+              191.76787,
+              58.212322
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 267,
+          "from": 17,
+          "to": 86,
+          "shape": [
+            [
+              "L",
+              35.011875,
+              188.08783,
+              49.312386,
+              169.79332
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 269,
+          "from": 88,
+          "to": 54,
+          "shape": [
+            [
+              "L",
+              171.29393,
+              20.199007,
+              181.8873,
+              19.7491
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 273,
+          "from": 80,
+          "to": 86,
+          "shape": [
+            [
+              "L",
+              52.008614,
+              154.97403,
+              49.312386,
+              169.79332
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 275,
+          "from": 89,
+          "to": 86,
+          "shape": [
+            [
+              "L",
+              64.733635,
+              166.41399,
+              49.312386,
+              169.79332
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 277,
+          "from": 89,
+          "to": 1,
+          "shape": [
+            [
+              "L",
+              64.733635,
+              166.41399,
+              70,
+              182
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 279,
+          "from": 87,
+          "to": 3,
+          "shape": [
+            [
+              "L",
+              181.60324,
+              41.529114,
+              182.58665,
+              61.57806
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 281,
+          "from": 80,
+          "to": 89,
+          "shape": [
+            [
+              "L",
+              52.008614,
+              154.97403,
+              64.733635,
+              166.41399
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 283,
+          "from": 85,
+          "to": 62,
+          "shape": [
+            [
+              "L",
+              92.0381,
+              91.0784,
+              100.69,
+              92.0226
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 285,
+          "from": 14,
+          "to": 89,
+          "shape": [
+            [
+              "L",
+              96.9881,
+              165.795,
+              64.733635,
+              166.41399
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 289,
+          "from": 90,
+          "to": 91,
+          "shape": [
+            [
+              "L",
+              140.218,
+              219.102,
+              134.923,
+              210.781
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 291,
+          "from": 90,
+          "to": 34,
+          "shape": [
+            [
+              "L",
+              140.218,
+              219.102,
+              138.482,
+              206.588
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 293,
+          "from": 92,
+          "to": 45,
+          "shape": [
+            [
+              "L",
+              162.92384,
+              18.02022,
+              155.4976,
+              18.670944
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 299,
+          "from": 33,
+          "to": 90,
+          "shape": [
+            [
+              "L",
+              154.31168,
+              220.33745,
+              140.218,
+              219.102
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 301,
+          "from": 88,
+          "to": 92,
+          "shape": [
+            [
+              "L",
+              171.29393,
+              20.199007,
+              162.92384,
+              18.02022
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 303,
+          "from": 93,
+          "to": 47,
+          "shape": [
+            [
+              "L",
+              144.43587,
+              21.329477,
+              137.938,
+              18.7257
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 305,
+          "from": 93,
+          "to": 67,
+          "shape": [
+            [
+              "L",
+              144.43587,
+              21.329477,
+              149.03662,
+              27.781708
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 307,
+          "from": 75,
+          "to": 2,
+          "shape": [
+            [
+              "L",
+              87.0108,
+              58.5298,
+              68,
+              55
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 309,
+          "from": 94,
+          "to": 90,
+          "shape": [
+            [
+              "L",
+              137.42,
+              219.277,
+              140.218,
+              219.102
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 313,
+          "from": 96,
+          "to": 97,
+          "shape": [
+            [
+              "L",
+              229.0785,
+              131.1915,
+              223.255,
+              127.194
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 315,
+          "from": 96,
+          "to": 35,
+          "shape": [
+            [
+              "L",
+              229.0785,
+              131.1915,
+              237.804,
+              115.336235
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 317,
+          "from": 13,
+          "to": 94,
+          "shape": [
+            [
+              "L",
+              127.688,
+              225.737,
+              137.42,
+              219.277
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 319,
+          "from": 98,
+          "to": 95,
+          "shape": [
+            [
+              "L",
+              124.431,
+              230.439,
+              123.103,
+              231.73
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 321,
+          "from": 98,
+          "to": 13,
+          "shape": [
+            [
+              "L",
+              124.431,
+              230.439,
+              127.688,
+              225.737
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 323,
+          "from": 99,
+          "to": 100,
+          "shape": [
+            [
+              "L",
+              250.322,
+              128.27963,
+              248.369,
+              125.61
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 327,
+          "from": 102,
+          "to": 56,
+          "shape": [
+            [
+              "L",
+              131.673,
+              18.5814,
+              130.008,
+              16.1006
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 329,
+          "from": 102,
+          "to": 50,
+          "shape": [
+            [
+              "L",
+              131.673,
+              18.5814,
+              129.688,
+              23.9281
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 331,
+          "from": 87,
+          "to": 83,
+          "shape": [
+            [
+              "L",
+              181.60324,
+              41.529114,
+              162.475,
+              35.6793
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 333,
+          "from": 103,
+          "to": 78,
+          "shape": [
+            [
+              "L",
+              162.172,
+              28.7566,
+              160.39337,
+              28.115091
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 337,
+          "from": 104,
+          "to": 97,
+          "shape": [
+            [
+              "L",
+              215.205,
+              127.16,
+              223.255,
+              127.194
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 339,
+          "from": 104,
+          "to": 36,
+          "shape": [
+            [
+              "L",
+              215.205,
+              127.16,
+              214.397,
+              117.551
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 341,
+          "from": 57,
+          "to": 173,
+          "shape": [
+            [
+              "L",
+              187.237,
+              88.1446,
+              190.32118,
+              67.71784
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 343,
+          "from": 93,
+          "to": 45,
+          "shape": [
+            [
+              "L",
+              144.43587,
+              21.329477,
+              155.4976,
+              18.670944
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 347,
+          "from": 105,
+          "to": 22,
+          "shape": [
+            [
+              "L",
+              238.48,
+              94.187,
+              230.26,
+              90.7881
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 351,
+          "from": 107,
+          "to": 106,
+          "shape": [
+            [
+              "L",
+              251.48178,
+              39.241398,
+              232.258,
+              38.5458
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 353,
+          "from": 107,
+          "to": 23,
+          "shape": [
+            [
+              "L",
+              251.48178,
+              39.241398,
+              243.53,
+              8.47009
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 355,
+          "from": 38,
+          "to": 85,
+          "shape": [
+            [
+              "L",
+              98.1634,
+              108.617,
+              92.0381,
+              91.0784
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 357,
+          "from": 103,
+          "to": 83,
+          "shape": [
+            [
+              "L",
+              162.172,
+              28.7566,
+              162.475,
+              35.6793
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 359,
+          "from": 52,
+          "to": 175,
+          "shape": [
+            [
+              "L",
+              165.245,
+              178.969,
+              169.32153,
+              153.4032
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 361,
+          "from": 108,
+          "to": 41,
+          "shape": [
+            [
+              "L",
+              214.68,
+              178.359,
+              210.159,
+              194.672
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 363,
+          "from": 108,
+          "to": 109,
+          "shape": [
+            [
+              "L",
+              214.68,
+              178.359,
+              191.01,
+              179.974
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 365,
+          "from": 8,
+          "to": 108,
+          "shape": [
+            [
+              "L",
+              235.526,
+              186.343,
+              214.68,
+              178.359
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 367,
+          "from": 110,
+          "to": 87,
+          "shape": [
+            [
+              "L",
+              192.063,
+              42.5396,
+              181.60324,
+              41.529114
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 369,
+          "from": 110,
+          "to": 31,
+          "shape": [
+            [
+              "L",
+              192.063,
+              42.5396,
+              203.687,
+              36.6237
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 371,
+          "from": 46,
+          "to": 111,
+          "shape": [
+            [
+              "L",
+              151.744,
+              31.7843,
+              154.30191,
+              28.686834
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 373,
+          "from": 111,
+          "to": 112,
+          "shape": [
+            [
+              "L",
+              154.30191,
+              28.686834,
+              156.101,
+              26.152
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 375,
+          "from": 112,
+          "to": 32,
+          "shape": [
+            [
+              "L",
+              156.101,
+              26.152,
+              157.381,
+              33.2821
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 377,
+          "from": 113,
+          "to": 5,
+          "shape": [
+            [
+              "L",
+              185.383,
+              148.803,
+              172.517,
+              133.363
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 381,
+          "from": 113,
+          "to": 176,
+          "shape": [
+            [
+              "L",
+              185.383,
+              148.803,
+              169.32153,
+              153.4032
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 383,
+          "from": 52,
+          "to": 113,
+          "shape": [
+            [
+              "L",
+              165.245,
+              178.969,
+              185.383,
+              148.803
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 385,
+          "from": 110,
+          "to": 30,
+          "shape": [
+            [
+              "L",
+              192.063,
+              42.5396,
+              182.61551,
+              32.109646
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 387,
+          "from": 94,
+          "to": 91,
+          "shape": [
+            [
+              "L",
+              137.42,
+              219.277,
+              134.923,
+              210.781
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 389,
+          "from": 45,
+          "to": 112,
+          "shape": [
+            [
+              "L",
+              155.4976,
+              18.670944,
+              156.101,
+              26.152
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 391,
+          "from": 114,
+          "to": 5,
+          "shape": [
+            [
+              "L",
+              160.356,
+              132.208,
+              172.517,
+              133.363
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 393,
+          "from": 114,
+          "to": 185,
+          "shape": [
+            [
+              "L",
+              160.356,
+              132.208,
+              160.87085,
+              93.44975
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 397,
+          "from": 32,
+          "to": 111,
+          "shape": [
+            [
+              "L",
+              157.381,
+              33.2821,
+              154.30191,
+              28.686834
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 399,
+          "from": 116,
+          "to": 99,
+          "shape": [
+            [
+              "L",
+              252.385,
+              130.107,
+              250.322,
+              128.27963
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 401,
+          "from": 116,
+          "to": 96,
+          "shape": [
+            [
+              "L",
+              252.385,
+              130.107,
+              229.0785,
+              131.1915
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 403,
+          "from": 42,
+          "to": 114,
+          "shape": [
+            [
+              "L",
+              169.04478,
+              93.08733,
+              160.356,
+              132.208
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 405,
+          "from": 11,
+          "to": 114,
+          "shape": [
+            [
+              "L",
+              144.64026,
+              94.16368,
+              160.356,
+              132.208
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 407,
+          "from": 117,
+          "to": 35,
+          "shape": [
+            [
+              "L",
+              241.248,
+              112.884,
+              237.804,
+              115.336235
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 411,
+          "from": 6,
+          "to": 114,
+          "shape": [
+            [
+              "L",
+              153.48146,
+              157.93962,
+              160.356,
+              132.208
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 413,
+          "from": 119,
+          "to": 42,
+          "shape": [
+            [
+              "L",
+              163.34201,
+              88.19726,
+              169.04478,
+              93.08733
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 415,
+          "from": 119,
+          "to": 115,
+          "shape": [
+            [
+              "L",
+              163.34201,
+              88.19726,
+              161.147,
+              72.6614
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 417,
+          "from": 11,
+          "to": 183,
+          "shape": [
+            [
+              "L",
+              144.64026,
+              94.16368,
+              159.32625,
+              89.39803
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 419,
+          "from": 81,
+          "to": 120,
+          "shape": [
+            [
+              "L",
+              51.6385,
+              183.535,
+              54.844616,
+              176.72612
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 425,
+          "from": 122,
+          "to": 89,
+          "shape": [
+            [
+              "L",
+              58.356773,
+              173.34016,
+              64.733635,
+              166.41399
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 427,
+          "from": 1,
+          "to": 122,
+          "shape": [
+            [
+              "L",
+              70,
+              182,
+              58.356773,
+              173.34016
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 431,
+          "from": 123,
+          "to": 75,
+          "shape": [
+            [
+              "L",
+              85.4181,
+              51.9107,
+              87.0108,
+              58.5298
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 435,
+          "from": 125,
+          "to": 9,
+          "shape": [
+            [
+              "L",
+              53.5797,
+              65.6443,
+              56.7835,
+              81.6616
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 437,
+          "from": 125,
+          "to": 124,
+          "shape": [
+            [
+              "L",
+              53.5797,
+              65.6443,
+              52.0577,
+              47.9811
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 439,
+          "from": 26,
+          "to": 123,
+          "shape": [
+            [
+              "L",
+              76.7692,
+              48.3116,
+              85.4181,
+              51.9107
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 441,
+          "from": 122,
+          "to": 86,
+          "shape": [
+            [
+              "L",
+              58.356773,
+              173.34016,
+              49.312386,
+              169.79332
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 443,
+          "from": 101,
+          "to": 116,
+          "shape": [
+            [
+              "L",
+              251.688,
+              142.504,
+              252.385,
+              130.107
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 445,
+          "from": 126,
+          "to": 124,
+          "shape": [
+            [
+              "L",
+              61.5593,
+              37.4818,
+              52.0577,
+              47.9811
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 447,
+          "from": 126,
+          "to": 2,
+          "shape": [
+            [
+              "L",
+              61.5593,
+              37.4818,
+              68,
+              55
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 449,
+          "from": 125,
+          "to": 39,
+          "shape": [
+            [
+              "L",
+              53.5797,
+              65.6443,
+              35.0775,
+              71.9079
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 451,
+          "from": 126,
+          "to": 26,
+          "shape": [
+            [
+              "L",
+              61.5593,
+              37.4818,
+              76.7692,
+              48.3116
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 453,
+          "from": 127,
+          "to": 128,
+          "shape": [
+            [
+              "L",
+              255.188,
+              149.799,
+              255.753,
+              145.326
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 455,
+          "from": 127,
+          "to": 101,
+          "shape": [
+            [
+              "L",
+              255.188,
+              149.799,
+              251.688,
+              142.504
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 457,
+          "from": 2,
+          "to": 125,
+          "shape": [
+            [
+              "L",
+              68,
+              55,
+              53.5797,
+              65.6443
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 459,
+          "from": 129,
+          "to": 27,
+          "shape": [
+            [
+              "L",
+              89.882,
+              34.5401,
+              103.873,
+              33.0019
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 463,
+          "from": 129,
+          "to": 197,
+          "shape": [
+            [
+              "L",
+              89.882,
+              34.5401,
+              86.624725,
+              47.21531
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 465,
+          "from": 131,
+          "to": 118,
+          "shape": [
+            [
+              "L",
+              225.896,
+              108.339,
+              213.226,
+              106.134
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 467,
+          "from": 131,
+          "to": 35,
+          "shape": [
+            [
+              "L",
+              225.896,
+              108.339,
+              237.804,
+              115.336235
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 469,
+          "from": 132,
+          "to": 131,
+          "shape": [
+            [
+              "L",
+              221.619,
+              113.059,
+              225.896,
+              108.339
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 471,
+          "from": 132,
+          "to": 36,
+          "shape": [
+            [
+              "L",
+              221.619,
+              113.059,
+              214.397,
+              117.551
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 473,
+          "from": 14,
+          "to": 12,
+          "shape": [
+            [
+              "L",
+              96.9881,
+              165.795,
+              93.7116,
+              225.26
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 475,
+          "from": 133,
+          "to": 134,
+          "shape": [
+            [
+              "L",
+              71.1239,
+              34.9326,
+              68.3145,
+              26.0122
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 477,
+          "from": 133,
+          "to": 126,
+          "shape": [
+            [
+              "L",
+              71.1239,
+              34.9326,
+              61.5593,
+              37.4818
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 479,
+          "from": 135,
+          "to": 2,
+          "shape": [
+            [
+              "L",
+              60.7677,
+              50.4865,
+              68,
+              55
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 481,
+          "from": 135,
+          "to": 124,
+          "shape": [
+            [
+              "L",
+              60.7677,
+              50.4865,
+              52.0577,
+              47.9811
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 483,
+          "from": 129,
+          "to": 133,
+          "shape": [
+            [
+              "L",
+              89.882,
+              34.5401,
+              71.1239,
+              34.9326
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 485,
+          "from": 125,
+          "to": 135,
+          "shape": [
+            [
+              "L",
+              53.5797,
+              65.6443,
+              60.7677,
+              50.4865
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 487,
+          "from": 133,
+          "to": 26,
+          "shape": [
+            [
+              "L",
+              71.1239,
+              34.9326,
+              76.7692,
+              48.3116
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 489,
+          "from": 136,
+          "to": 130,
+          "shape": [
+            [
+              "L",
+              121.48,
+              43.3958,
+              124.77741,
+              47.800266
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 491,
+          "from": 136,
+          "to": 49,
+          "shape": [
+            [
+              "L",
+              121.48,
+              43.3958,
+              131.931,
+              46.0468
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 493,
+          "from": 129,
+          "to": 26,
+          "shape": [
+            [
+              "L",
+              89.882,
+              34.5401,
+              76.7692,
+              48.3116
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 495,
+          "from": 137,
+          "to": 22,
+          "shape": [
+            [
+              "L",
+              238.71,
+              65.7603,
+              230.26,
+              90.7881
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 497,
+          "from": 137,
+          "to": 106,
+          "shape": [
+            [
+              "L",
+              238.71,
+              65.7603,
+              232.258,
+              38.5458
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 499,
+          "from": 137,
+          "to": 107,
+          "shape": [
+            [
+              "L",
+              238.71,
+              65.7603,
+              251.48178,
+              39.241398
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 501,
+          "from": 4,
+          "to": 137,
+          "shape": [
+            [
+              "L",
+              209.811,
+              83.0826,
+              238.71,
+              65.7603
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 503,
+          "from": 136,
+          "to": 50,
+          "shape": [
+            [
+              "L",
+              121.48,
+              43.3958,
+              129.688,
+              23.9281
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 507,
+          "from": 138,
+          "to": 120,
+          "shape": [
+            [
+              "L",
+              53.523,
+              173.2887,
+              54.844616,
+              176.72612
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 509,
+          "from": 138,
+          "to": 122,
+          "shape": [
+            [
+              "L",
+              53.523,
+              173.2887,
+              58.356773,
+              173.34016
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 511,
+          "from": 139,
+          "to": 76,
+          "shape": [
+            [
+              "L",
+              102.432,
+              55.9756,
+              97.7164,
+              56.1034
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 513,
+          "from": 139,
+          "to": 51,
+          "shape": [
+            [
+              "L",
+              102.432,
+              55.9756,
+              107.885,
+              44.8504
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 515,
+          "from": 140,
+          "to": 106,
+          "shape": [
+            [
+              "L",
+              240.778,
+              24.7409,
+              232.258,
+              38.5458
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 517,
+          "from": 140,
+          "to": 23,
+          "shape": [
+            [
+              "L",
+              240.778,
+              24.7409,
+              243.53,
+              8.47009
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 519,
+          "from": 136,
+          "to": 51,
+          "shape": [
+            [
+              "L",
+              121.48,
+              43.3958,
+              107.885,
+              44.8504
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 521,
+          "from": 140,
+          "to": 107,
+          "shape": [
+            [
+              "L",
+              240.778,
+              24.7409,
+              251.48178,
+              39.241398
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 523,
+          "from": 141,
+          "to": 27,
+          "shape": [
+            [
+              "L",
+              114.167,
+              34.5644,
+              103.873,
+              33.0019
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 527,
+          "from": 136,
+          "to": 141,
+          "shape": [
+            [
+              "L",
+              121.48,
+              43.3958,
+              114.167,
+              34.5644
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 529,
+          "from": 135,
+          "to": 126,
+          "shape": [
+            [
+              "L",
+              60.7677,
+              50.4865,
+              61.5593,
+              37.4818
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 531,
+          "from": 143,
+          "to": 59,
+          "shape": [
+            [
+              "L",
+              128.843,
+              59.1148,
+              127.234,
+              60.8407
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 533,
+          "from": 143,
+          "to": 142,
+          "shape": [
+            [
+              "L",
+              128.843,
+              59.1148,
+              126.214,
+              54.8435
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 537,
+          "from": 144,
+          "to": 145,
+          "shape": [
+            [
+              "L",
+              189.777,
+              164.16,
+              184.452,
+              170.029
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 539,
+          "from": 145,
+          "to": 52,
+          "shape": [
+            [
+              "L",
+              184.452,
+              170.029,
+              165.245,
+              178.969
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 541,
+          "from": 131,
+          "to": 22,
+          "shape": [
+            [
+              "L",
+              225.896,
+              108.339,
+              230.26,
+              90.7881
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 543,
+          "from": 144,
+          "to": 113,
+          "shape": [
+            [
+              "L",
+              189.777,
+              164.16,
+              185.383,
+              148.803
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 545,
+          "from": 146,
+          "to": 109,
+          "shape": [
+            [
+              "L",
+              191.683,
+              173.615,
+              191.01,
+              179.974
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 547,
+          "from": 146,
+          "to": 145,
+          "shape": [
+            [
+              "L",
+              191.683,
+              173.615,
+              184.452,
+              170.029
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 551,
+          "from": 147,
+          "to": 148,
+          "shape": [
+            [
+              "L",
+              163.96272,
+              25.458914,
+              163.05675,
+              23.539047
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 553,
+          "from": 148,
+          "to": 103,
+          "shape": [
+            [
+              "L",
+              163.05675,
+              23.539047,
+              162.172,
+              28.7566
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 555,
+          "from": 149,
+          "to": 78,
+          "shape": [
+            [
+              "L",
+              159.951,
+              21.7669,
+              160.39337,
+              28.115091
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 559,
+          "from": 146,
+          "to": 144,
+          "shape": [
+            [
+              "L",
+              191.683,
+              173.615,
+              189.777,
+              164.16
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 563,
+          "from": 150,
+          "to": 141,
+          "shape": [
+            [
+              "L",
+              114.298,
+              40.888,
+              114.167,
+              34.5644
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 565,
+          "from": 150,
+          "to": 51,
+          "shape": [
+            [
+              "L",
+              114.298,
+              40.888,
+              107.885,
+              44.8504
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 569,
+          "from": 151,
+          "to": 142,
+          "shape": [
+            [
+              "L",
+              125.97844,
+              53.193245,
+              126.214,
+              54.8435
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 571,
+          "from": 151,
+          "to": 130,
+          "shape": [
+            [
+              "L",
+              125.97844,
+              53.193245,
+              124.77741,
+              47.800266
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 573,
+          "from": 45,
+          "to": 149,
+          "shape": [
+            [
+              "L",
+              155.4976,
+              18.670944,
+              159.951,
+              21.7669
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 575,
+          "from": 145,
+          "to": 113,
+          "shape": [
+            [
+              "L",
+              184.452,
+              170.029,
+              185.383,
+              148.803
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 577,
+          "from": 136,
+          "to": 150,
+          "shape": [
+            [
+              "L",
+              121.48,
+              43.3958,
+              114.298,
+              40.888
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 579,
+          "from": 12,
+          "to": 152,
+          "shape": [
+            [
+              "L",
+              93.7116,
+              225.26,
+              110.746,
+              216.297
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 581,
+          "from": 152,
+          "to": 153,
+          "shape": [
+            [
+              "L",
+              110.746,
+              216.297,
+              112.104,
+              218.587
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 583,
+          "from": 153,
+          "to": 189,
+          "shape": [
+            [
+              "L",
+              112.104,
+              218.587,
+              119.41982,
+              225.62093
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 587,
+          "from": 129,
+          "to": 51,
+          "shape": [
+            [
+              "L",
+              89.882,
+              34.5401,
+              107.885,
+              44.8504
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 589,
+          "from": 154,
+          "to": 9,
+          "shape": [
+            [
+              "L",
+              67.6257,
+              96.7601,
+              56.7835,
+              81.6616
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 593,
+          "from": 154,
+          "to": 10,
+          "shape": [
+            [
+              "L",
+              67.6257,
+              96.7601,
+              86.7783,
+              93.071
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 597,
+          "from": 156,
+          "to": 34,
+          "shape": [
+            [
+              "L",
+              144.873,
+              203.545,
+              138.482,
+              206.588
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 601,
+          "from": 88,
+          "to": 148,
+          "shape": [
+            [
+              "L",
+              171.29393,
+              20.199007,
+              163.05675,
+              23.539047
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 603,
+          "from": 146,
+          "to": 108,
+          "shape": [
+            [
+              "L",
+              191.683,
+              173.615,
+              214.68,
+              178.359
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 605,
+          "from": 33,
+          "to": 156,
+          "shape": [
+            [
+              "L",
+              154.31168,
+              220.33745,
+              144.873,
+              203.545
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 607,
+          "from": 148,
+          "to": 92,
+          "shape": [
+            [
+              "L",
+              163.05675,
+              23.539047,
+              162.92384,
+              18.02022
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 609,
+          "from": 158,
+          "to": 79,
+          "shape": [
+            [
+              "L",
+              74.9274,
+              85.2025,
+              85.0293,
+              83.5585
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 613,
+          "from": 64,
+          "to": 70,
+          "shape": [
+            [
+              "L",
+              205.40683,
+              45.317642,
+              206.714,
+              35.7744
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 615,
+          "from": 9,
+          "to": 158,
+          "shape": [
+            [
+              "L",
+              56.7835,
+              81.6616,
+              74.9274,
+              85.2025
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 617,
+          "from": 159,
+          "to": 155,
+          "shape": [
+            [
+              "L",
+              79.2672,
+              79.1653,
+              81.5412,
+              73.2747
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 619,
+          "from": 159,
+          "to": 79,
+          "shape": [
+            [
+              "L",
+              79.2672,
+              79.1653,
+              85.0293,
+              83.5585
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 621,
+          "from": 154,
+          "to": 158,
+          "shape": [
+            [
+              "L",
+              67.6257,
+              96.7601,
+              74.9274,
+              85.2025
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 623,
+          "from": 96,
+          "to": 131,
+          "shape": [
+            [
+              "L",
+              229.0785,
+              131.1915,
+              225.896,
+              108.339
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 625,
+          "from": 160,
+          "to": 161,
+          "shape": [
+            [
+              "L",
+              19.240252,
+              74.12165,
+              9.376539,
+              72.29004
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 627,
+          "from": 160,
+          "to": 40,
+          "shape": [
+            [
+              "L",
+              19.240252,
+              74.12165,
+              32.4606,
+              76.6575
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 629,
+          "from": 105,
+          "to": 137,
+          "shape": [
+            [
+              "L",
+              238.48,
+              94.187,
+              238.71,
+              65.7603
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 631,
+          "from": 77,
+          "to": 137,
+          "shape": [
+            [
+              "L",
+              191.76787,
+              58.212322,
+              238.71,
+              65.7603
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 633,
+          "from": 158,
+          "to": 159,
+          "shape": [
+            [
+              "L",
+              74.9274,
+              85.2025,
+              79.2672,
+              79.1653
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 637,
+          "from": 149,
+          "to": 92,
+          "shape": [
+            [
+              "L",
+              159.951,
+              21.7669,
+              162.92384,
+              18.02022
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 639,
+          "from": 13,
+          "to": 153,
+          "shape": [
+            [
+              "L",
+              127.688,
+              225.737,
+              112.104,
+              218.587
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 643,
+          "from": 162,
+          "to": 20,
+          "shape": [
+            [
+              "L",
+              170.022,
+              63.9181,
+              162.98,
+              55.0542
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 645,
+          "from": 162,
+          "to": 115,
+          "shape": [
+            [
+              "L",
+              170.022,
+              63.9181,
+              161.147,
+              72.6614
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 647,
+          "from": 163,
+          "to": 157,
+          "shape": [
+            [
+              "L",
+              143.095,
+              226.211,
+              141.011,
+              232.065
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 649,
+          "from": 163,
+          "to": 90,
+          "shape": [
+            [
+              "L",
+              143.095,
+              226.211,
+              140.218,
+              219.102
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 651,
+          "from": 33,
+          "to": 163,
+          "shape": [
+            [
+              "L",
+              154.31168,
+              220.33745,
+              143.095,
+              226.211
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 653,
+          "from": 72,
+          "to": 164,
+          "shape": [
+            [
+              "L",
+              14.594036,
+              139.81046,
+              30.410868,
+              148.11002
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 655,
+          "from": 164,
+          "to": 165,
+          "shape": [
+            [
+              "L",
+              30.410868,
+              148.11002,
+              35.660614,
+              141.94698
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 657,
+          "from": 165,
+          "to": 80,
+          "shape": [
+            [
+              "L",
+              35.660614,
+              141.94698,
+              52.008614,
+              154.97403
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 661,
+          "from": 3,
+          "to": 162,
+          "shape": [
+            [
+              "L",
+              182.58665,
+              61.57806,
+              170.022,
+              63.9181
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 663,
+          "from": 51,
+          "to": 166,
+          "shape": [
+            [
+              "L",
+              107.885,
+              44.8504,
+              108.265,
+              38.3639
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 665,
+          "from": 166,
+          "to": 167,
+          "shape": [
+            [
+              "L",
+              108.265,
+              38.3639,
+              108.697,
+              36.2444
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 667,
+          "from": 167,
+          "to": 141,
+          "shape": [
+            [
+              "L",
+              108.697,
+              36.2444,
+              114.167,
+              34.5644
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 669,
+          "from": 168,
+          "to": 169,
+          "shape": [
+            [
+              "L",
+              137.825,
+              52.6852,
+              141.37,
+              51.4972
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 671,
+          "from": 168,
+          "to": 55,
+          "shape": [
+            [
+              "L",
+              137.825,
+              52.6852,
+              131.741,
+              49.8046
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 673,
+          "from": 16,
+          "to": 164,
+          "shape": [
+            [
+              "L",
+              41.41948,
+              162.3236,
+              30.410868,
+              148.11002
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 675,
+          "from": 27,
+          "to": 166,
+          "shape": [
+            [
+              "L",
+              103.873,
+              33.0019,
+              108.265,
+              38.3639
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 677,
+          "from": 170,
+          "to": 103,
+          "shape": [
+            [
+              "L",
+              164.16049,
+              28.722029,
+              162.172,
+              28.7566
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 679,
+          "from": 170,
+          "to": 147,
+          "shape": [
+            [
+              "L",
+              164.16049,
+              28.722029,
+              163.96272,
+              25.458914
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 681,
+          "from": 30,
+          "to": 170,
+          "shape": [
+            [
+              "L",
+              182.61551,
+              32.109646,
+              164.16049,
+              28.722029
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 683,
+          "from": 14,
+          "to": 195,
+          "shape": [
+            [
+              "L",
+              96.9881,
+              165.795,
+              81.12931,
+              202.36919
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 685,
+          "from": 37,
+          "to": 164,
+          "shape": [
+            [
+              "L",
+              19.243204,
+              177.00198,
+              30.410868,
+              148.11002
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 687,
+          "from": 170,
+          "to": 83,
+          "shape": [
+            [
+              "L",
+              164.16049,
+              28.722029,
+              162.475,
+              35.6793
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 689,
+          "from": 150,
+          "to": 166,
+          "shape": [
+            [
+              "L",
+              114.298,
+              40.888,
+              108.265,
+              38.3639
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 691,
+          "from": 104,
+          "to": 132,
+          "shape": [
+            [
+              "L",
+              215.205,
+              127.16,
+              221.619,
+              113.059
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 693,
+          "from": 90,
+          "to": 193,
+          "shape": [
+            [
+              "L",
+              140.218,
+              219.102,
+              142.8335,
+              210.36102
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 695,
+          "from": 131,
+          "to": 117,
+          "shape": [
+            [
+              "L",
+              225.896,
+              108.339,
+              241.248,
+              112.884
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 697,
+          "from": 10,
+          "to": 158,
+          "shape": [
+            [
+              "L",
+              86.7783,
+              93.071,
+              74.9274,
+              85.2025
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 2,
+          "from": 151,
+          "to": 60,
+          "shape": [
+            [
+              "L",
+              125.97844,
+              53.193245,
+              120.835,
+              57.5275
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 4,
+          "from": 49,
+          "to": 130,
+          "shape": [
+            [
+              "L",
+              131.931,
+              46.0468,
+              124.77741,
+              47.800266
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 6,
+          "from": 130,
+          "to": 51,
+          "shape": [
+            [
+              "L",
+              124.77741,
+              47.800266,
+              107.885,
+              44.8504
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 7,
+          "from": 159,
+          "to": 9,
+          "shape": [
+            [
+              "L",
+              79.2672,
+              79.1653,
+              56.7835,
+              81.6616
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 8,
+          "from": 172,
+          "to": 117,
+          "shape": [
+            [
+              "L",
+              233.5001,
+              98.70066,
+              241.248,
+              112.884
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 9,
+          "from": 173,
+          "to": 77,
+          "shape": [
+            [
+              "L",
+              190.32118,
+              67.71784,
+              191.76787,
+              58.212322
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 10,
+          "from": 174,
+          "to": 4,
+          "shape": [
+            [
+              "L",
+              190.32118,
+              67.71784,
+              209.811,
+              83.0826
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 11,
+          "from": 175,
+          "to": 5,
+          "shape": [
+            [
+              "L",
+              169.32153,
+              153.4032,
+              172.517,
+              133.363
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 12,
+          "from": 176,
+          "to": 6,
+          "shape": [
+            [
+              "L",
+              169.32153,
+              153.4032,
+              153.48146,
+              157.93962
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 20,
+          "from": 183,
+          "to": 119,
+          "shape": [
+            [
+              "L",
+              159.32625,
+              89.39803,
+              163.34201,
+              88.19726
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 22,
+          "from": 184,
+          "to": 115,
+          "shape": [
+            [
+              "L",
+              159.32513,
+              89.40007,
+              161.147,
+              72.6614
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 24,
+          "from": 185,
+          "to": 184,
+          "shape": [
+            [
+              "L",
+              160.87085,
+              93.44975,
+              159.32513,
+              89.40007
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 26,
+          "from": 186,
+          "to": 11,
+          "shape": [
+            [
+              "L",
+              160.87085,
+              93.44975,
+              144.64026,
+              94.16368
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 31,
+          "from": 189,
+          "to": 98,
+          "shape": [
+            [
+              "L",
+              119.41982,
+              225.62093,
+              124.431,
+              230.439
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 32,
+          "from": 190,
+          "to": 13,
+          "shape": [
+            [
+              "L",
+              119.41982,
+              225.62093,
+              127.688,
+              225.737
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 33,
+          "from": 191,
+          "to": 5,
+          "shape": [
+            [
+              "L",
+              178.51552,
+              90.51398,
+              172.517,
+              133.363
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 34,
+          "from": 192,
+          "to": 42,
+          "shape": [
+            [
+              "L",
+              178.51552,
+              90.51398,
+              169.04478,
+              93.08733
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 35,
+          "from": 193,
+          "to": 156,
+          "shape": [
+            [
+              "L",
+              142.8335,
+              210.36102,
+              144.873,
+              203.545
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 36,
+          "from": 194,
+          "to": 34,
+          "shape": [
+            [
+              "L",
+              142.8335,
+              210.36102,
+              138.482,
+              206.588
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 38,
+          "from": 195,
+          "to": 19,
+          "shape": [
+            [
+              "L",
+              81.12931,
+              202.36919,
+              74.66009,
+              217.21178
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 40,
+          "from": 196,
+          "to": 1,
+          "shape": [
+            [
+              "L",
+              78.22105,
+              197.11082,
+              70,
+              182
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 41,
+          "from": 197,
+          "to": 123,
+          "shape": [
+            [
+              "L",
+              86.624725,
+              47.21531,
+              85.4181,
+              51.9107
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 42,
+          "from": 198,
+          "to": 51,
+          "shape": [
+            [
+              "L",
+              86.624725,
+              47.21531,
+              107.885,
+              44.8504
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 44,
+          "from": 199,
+          "to": 19,
+          "shape": [
+            [
+              "L",
+              73.56025,
+              210.68437,
+              74.66009,
+              217.21178
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 50,
+          "from": 202,
+          "to": 196,
+          "shape": [
+            [
+              "L",
+              81.13139,
+              202.36931,
+              78.22105,
+              197.11082
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 51,
+          "from": 38,
+          "to": 203,
+          "shape": [
+            [
+              "L",
+              98.1634,
+              108.617,
+              108.71137,
+              111.28131
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 52,
+          "from": 11,
+          "to": 204,
+          "shape": [
+            [
+              "L",
+              144.64026,
+              94.16368,
+              132.91142,
+              104.72097
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 54,
+          "from": 11,
+          "to": 205,
+          "shape": [
+            [
+              "L",
+              144.64026,
+              94.16368,
+              151.17233,
+              100.30272
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 56,
+          "from": 5,
+          "to": 206,
+          "shape": [
+            [
+              "L",
+              172.517,
+              133.363,
+              168.96121,
+              130.28961
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 58,
+          "from": 35,
+          "to": 207,
+          "shape": [
+            [
+              "L",
+              237.804,
+              115.336235,
+              232.48233,
+              115.99894
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 60,
+          "from": 170,
+          "to": 209,
+          "shape": [
+            [
+              "L",
+              164.16049,
+              28.722029,
+              167.40497,
+              32.263607
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 62,
+          "from": 6,
+          "to": 210,
+          "shape": [
+            [
+              "L",
+              153.48146,
+              157.93962,
+              146.30223,
+              159.64563
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 66,
+          "from": 1,
+          "to": 211,
+          "shape": [
+            [
+              "L",
+              70,
+              182,
+              73.26992,
+              182.24203
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 67,
+          "from": 120,
+          "to": 212,
+          "shape": [
+            [
+              "L",
+              54.844616,
+              176.72612,
+              57.93071,
+              179.51562
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 68,
+          "from": 18,
+          "to": 213,
+          "shape": [
+            [
+              "L",
+              7.6208806,
+              192.59631,
+              10.969869,
+              192.86267
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 69,
+          "from": 164,
+          "to": 214,
+          "shape": [
+            [
+              "L",
+              30.410868,
+              148.11002,
+              26.5172,
+              149.81631
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 70,
+          "from": 165,
+          "to": 215,
+          "shape": [
+            [
+              "L",
+              35.660614,
+              141.94698,
+              33.590195,
+              140.34593
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 72,
+          "from": 80,
+          "to": 216,
+          "shape": [
+            [
+              "L",
+              52.008614,
+              154.97403,
+              53.610058,
+              152.64384
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 73,
+          "from": 58,
+          "to": 217,
+          "shape": [
+            [
+              "L",
+              111.929,
+              165.485,
+              110.22122,
+              162.66063
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 74,
+          "from": 63,
+          "to": 218,
+          "shape": [
+            [
+              "L",
+              136.577,
+              173.873,
+              136.40701,
+              176.63823
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 76,
+          "from": 41,
+          "to": 219,
+          "shape": [
+            [
+              "L",
+              210.159,
+              194.672,
+              207.8335,
+              194.13412
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 77,
+          "from": 102,
+          "to": 220,
+          "shape": [
+            [
+              "L",
+              131.673,
+              18.5814,
+              127.83395,
+              19.244398
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 78,
+          "from": 93,
+          "to": 221,
+          "shape": [
+            [
+              "L",
+              144.43587,
+              21.329477,
+              144.94977,
+              19.659634
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 80,
+          "from": 88,
+          "to": 222,
+          "shape": [
+            [
+              "L",
+              171.29393,
+              20.199007,
+              171.32588,
+              17.768658
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 82,
+          "from": 54,
+          "to": 223,
+          "shape": [
+            [
+              "L",
+              181.8873,
+              19.7491,
+              182.97511,
+              18.374306
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 84,
+          "from": 30,
+          "to": 224,
+          "shape": [
+            [
+              "L",
+              182.61551,
+              32.109646,
+              183.99532,
+              31.157055
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 85,
+          "from": 87,
+          "to": 225,
+          "shape": [
+            [
+              "L",
+              181.60324,
+              41.529114,
+              178.7507,
+              44.24499
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 86,
+          "from": 20,
+          "to": 226,
+          "shape": [
+            [
+              "L",
+              162.98,
+              55.0542,
+              162.28525,
+              52.434242
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 87,
+          "from": 162,
+          "to": 227,
+          "shape": [
+            [
+              "L",
+              170.022,
+              63.9181,
+              171.47658,
+              66.561195
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 88,
+          "from": 4,
+          "to": 228,
+          "shape": [
+            [
+              "L",
+              209.811,
+              83.0826,
+              209.76788,
+              89.731064
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 90,
+          "from": 14,
+          "to": 229,
+          "shape": [
+            [
+              "L",
+              96.9881,
+              165.795,
+              97.79197,
+              162.68796
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 92,
+          "from": 12,
+          "to": 230,
+          "shape": [
+            [
+              "L",
+              93.7116,
+              225.26,
+              92.42888,
+              230.13927
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 14,
+          "from": 138,
+          "to": 86,
+          "shape": [
+            [
+              "L",
+              53.523,
+              173.2887,
+              49.312386,
+              169.79332
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 15,
+          "from": 86,
+          "to": 81,
+          "shape": [
+            [
+              "L",
+              49.312386,
+              169.79332,
+              51.6385,
+              183.535
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 16,
+          "from": 16,
+          "to": 86,
+          "shape": [
+            [
+              "L",
+              41.41948,
+              162.3236,
+              49.312386,
+              169.79332
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 0,
+          "from": 32,
+          "to": 78,
+          "shape": [
+            [
+              "L",
+              157.381,
+              33.2821,
+              160.39337,
+              28.115091
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 17,
+          "from": 78,
+          "to": 83,
+          "shape": [
+            [
+              "L",
+              160.39337,
+              28.115091,
+              162.475,
+              35.6793
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 18,
+          "from": 144,
+          "to": 121,
+          "shape": [
+            [
+              "L",
+              189.777,
+              164.16,
+              193.71983,
+              162.40515
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 19,
+          "from": 140,
+          "to": 171,
+          "shape": [
+            [
+              "L",
+              240.778,
+              24.7409,
+              240.6191,
+              32.80451
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 27,
+          "from": 152,
+          "to": 177,
+          "shape": [
+            [
+              "L",
+              110.746,
+              216.297,
+              111.748955,
+              213.47424
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 28,
+          "from": 0,
+          "to": 161,
+          "shape": [
+            [
+              "L",
+              9.459956,
+              74.41423,
+              9.376539,
+              72.29004
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 30,
+          "from": 172,
+          "to": 22,
+          "shape": [
+            [
+              "L",
+              233.5001,
+              98.70066,
+              230.26,
+              90.7881
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 46,
+          "from": 147,
+          "to": 178,
+          "shape": [
+            [
+              "L",
+              163.96272,
+              25.458914,
+              165.93092,
+              26.028297
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 48,
+          "from": 9,
+          "to": 179,
+          "shape": [
+            [
+              "L",
+              56.7835,
+              81.6616,
+              55.466442,
+              83.502686
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 59,
+          "from": 28,
+          "to": 180,
+          "shape": [
+            [
+              "L",
+              227.13,
+              215.965,
+              226.78937,
+              218.51604
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 64,
+          "from": 69,
+          "to": 181,
+          "shape": [
+            [
+              "L",
+              132.127,
+              150.251,
+              132.0756,
+              148.42682
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 75,
+          "from": 53,
+          "to": 182,
+          "shape": [
+            [
+              "L",
+              130.232,
+              173.01123,
+              129.9258,
+              174.77379
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 94,
+          "from": 145,
+          "to": 187,
+          "shape": [
+            [
+              "L",
+              184.452,
+              170.029,
+              182.53606,
+              168.82329
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 96,
+          "from": 6,
+          "to": 188,
+          "shape": [
+            [
+              "L",
+              153.48146,
+              157.93962,
+              155.80167,
+              159.00175
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 98,
+          "from": 153,
+          "to": 200,
+          "shape": [
+            [
+              "L",
+              112.104,
+              218.587,
+              110.58294,
+              219.97887
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 100,
+          "from": 13,
+          "to": 201,
+          "shape": [
+            [
+              "L",
+              127.688,
+              225.737,
+              130.2669,
+              226.07227
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 102,
+          "from": 196,
+          "to": 208,
+          "shape": [
+            [
+              "L",
+              78.22105,
+              197.11082,
+              79.57167,
+              195.766
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 104,
+          "from": 199,
+          "to": 231,
+          "shape": [
+            [
+              "L",
+              73.56025,
+              210.68437,
+              71.27703,
+              211.52342
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 106,
+          "from": 108,
+          "to": 232,
+          "shape": [
+            [
+              "L",
+              214.68,
+              178.359,
+              215.93869,
+              176.57877
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 108,
+          "from": 36,
+          "to": 233,
+          "shape": [
+            [
+              "L",
+              214.397,
+              117.551,
+              216.36188,
+              118.50837
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 110,
+          "from": 105,
+          "to": 234,
+          "shape": [
+            [
+              "L",
+              238.48,
+              94.187,
+              240.64708,
+              94.85335
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 111,
+          "from": 23,
+          "to": 235,
+          "shape": [
+            [
+              "L",
+              243.53,
+              8.47009,
+              242.54465,
+              6.701603
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 112,
+          "from": 84,
+          "to": 236,
+          "shape": [
+            [
+              "L",
+              213.286,
+              39.6163,
+              211.12872,
+              40.556637
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 114,
+          "from": 27,
+          "to": 237,
+          "shape": [
+            [
+              "L",
+              103.873,
+              33.0019,
+              102.0023,
+              34.974136
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 116,
+          "from": 139,
+          "to": 238,
+          "shape": [
+            [
+              "L",
+              102.432,
+              55.9756,
+              104.571686,
+              56.45126
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 118,
+          "from": 75,
+          "to": 239,
+          "shape": [
+            [
+              "L",
+              87.0108,
+              58.5298,
+              86.39028,
+              60.62204
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 119,
+          "from": 135,
+          "to": 240,
+          "shape": [
+            [
+              "L",
+              60.7677,
+              50.4865,
+              62.73197,
+              49.535244
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 120,
+          "from": 39,
+          "to": 241,
+          "shape": [
+            [
+              "L",
+              35.0775,
+              71.9079,
+              34.36859,
+              69.70957
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        }
+      ],
+      "nodes": [],
+      "roads": [],
+      "id": 0,
+      "backgroundImageFile": "C:\\_Osebno\\Projekti\\ARRS_AP_FE_Epilog_2021\\Aktivnosti_delo_sestanki\\SimulatorMatlab\\GitRepozitory_MatlabSimulator\\ARRS-L2-3168-WP3\\data\\clanekIEEE\\den520d.jpg",
+      "backgroundImageOrigin": [
+        -502.87097,
+        500.69843
+      ],
+      "backgroundImageScale": 3.924456
+    }
+  ],
+  "agvs": [],
+  "plans": [],
+  "settings": {
+    "start": 0,
+    "end": 0,
+    "step": 0.1
+  },
+  "tasks": [],
+  "stations": []
+}

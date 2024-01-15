@@ -1,0 +1,763 @@
+{
+  "worlds": [
+    {
+      "edges": [
+        {
+          "id": 0,
+          "from": 3,
+          "to": 4,
+          "shape": [
+            [
+              "L",
+              4,
+              0,
+              4,
+              4
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 2,
+          "from": 2,
+          "to": 1,
+          "shape": [
+            [
+              "L",
+              0,
+              4,
+              0,
+              0
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 4,
+          "from": 4,
+          "to": 7,
+          "shape": [
+            [
+              "L",
+              4,
+              4,
+              8,
+              4
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 5,
+          "from": 7,
+          "to": 6,
+          "shape": [
+            [
+              "L",
+              8,
+              4,
+              8,
+              2
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 6,
+          "from": 7,
+          "to": 10,
+          "shape": [
+            [
+              "L",
+              8,
+              4,
+              12,
+              4
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 10,
+          "from": 2,
+          "to": 31,
+          "shape": [
+            [
+              "L",
+              0,
+              4,
+              0,
+              10
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 11,
+          "from": 9,
+          "to": 8,
+          "shape": [
+            [
+              "L",
+              8,
+              12,
+              8,
+              8
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 12,
+          "from": 8,
+          "to": 5,
+          "shape": [
+            [
+              "L",
+              8,
+              8,
+              6,
+              8
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 13,
+          "from": 8,
+          "to": 11,
+          "shape": [
+            [
+              "L",
+              8,
+              8,
+              12,
+              8
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 14,
+          "from": 11,
+          "to": 10,
+          "shape": [
+            [
+              "L",
+              12,
+              8,
+              12,
+              4
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 15,
+          "from": 11,
+          "to": 18,
+          "shape": [
+            [
+              "L",
+              12,
+              8,
+              24,
+              8
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 16,
+          "from": 18,
+          "to": 17,
+          "shape": [
+            [
+              "L",
+              24,
+              8,
+              24,
+              4
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 17,
+          "from": 17,
+          "to": 15,
+          "shape": [
+            [
+              "L",
+              24,
+              4,
+              20,
+              4
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 18,
+          "from": 10,
+          "to": 15,
+          "shape": [
+            [
+              "L",
+              12,
+              4,
+              20,
+              4
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 19,
+          "from": 15,
+          "to": 14,
+          "shape": [
+            [
+              "L",
+              20,
+              4,
+              20,
+              2
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 20,
+          "from": 13,
+          "to": 12,
+          "shape": [
+            [
+              "L",
+              16,
+              2,
+              16,
+              0
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 21,
+          "from": 12,
+          "to": 33,
+          "shape": [
+            [
+              "L",
+              16,
+              0,
+              14,
+              0
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 22,
+          "from": 12,
+          "to": 16,
+          "shape": [
+            [
+              "L",
+              16,
+              0,
+              24,
+              0
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 23,
+          "from": 16,
+          "to": 19,
+          "shape": [
+            [
+              "L",
+              24,
+              0,
+              28,
+              0
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 24,
+          "from": 16,
+          "to": 17,
+          "shape": [
+            [
+              "L",
+              24,
+              0,
+              24,
+              4
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 7,
+          "from": 20,
+          "to": 2,
+          "shape": [
+            [
+              "L",
+              1,
+              4,
+              0,
+              4
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 8,
+          "from": 20,
+          "to": 21,
+          "shape": [
+            [
+              "L",
+              1,
+              4,
+              2,
+              4
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 9,
+          "from": 21,
+          "to": 22,
+          "shape": [
+            [
+              "L",
+              2,
+              4,
+              3,
+              4
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 26,
+          "from": 22,
+          "to": 4,
+          "shape": [
+            [
+              "L",
+              3,
+              4,
+              4,
+              4
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 1,
+          "from": 29,
+          "to": 32,
+          "shape": [
+            [
+              "L",
+              22,
+              12,
+              24,
+              10
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 3,
+          "from": 9,
+          "to": 23,
+          "shape": [
+            [
+              "L",
+              8,
+              12,
+              10,
+              12
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 25,
+          "from": 23,
+          "to": 24,
+          "shape": [
+            [
+              "L",
+              10,
+              12,
+              12,
+              12
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 27,
+          "from": 24,
+          "to": 25,
+          "shape": [
+            [
+              "L",
+              12,
+              12,
+              14,
+              12
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 28,
+          "from": 25,
+          "to": 26,
+          "shape": [
+            [
+              "L",
+              14,
+              12,
+              16,
+              12
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 29,
+          "from": 26,
+          "to": 27,
+          "shape": [
+            [
+              "L",
+              16,
+              12,
+              18,
+              12
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 30,
+          "from": 27,
+          "to": 28,
+          "shape": [
+            [
+              "L",
+              18,
+              12,
+              20,
+              12
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 31,
+          "from": 28,
+          "to": 29,
+          "shape": [
+            [
+              "L",
+              20,
+              12,
+              22,
+              12
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 32,
+          "from": 30,
+          "to": 9,
+          "shape": [
+            [
+              "L",
+              2,
+              12,
+              8,
+              12
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 33,
+          "from": 31,
+          "to": 30,
+          "shape": [
+            [
+              "L",
+              0,
+              10,
+              2,
+              12
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 34,
+          "from": 32,
+          "to": 18,
+          "shape": [
+            [
+              "L",
+              24,
+              10,
+              24,
+              8
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 35,
+          "from": 33,
+          "to": 34,
+          "shape": [
+            [
+              "L",
+              14,
+              0,
+              12,
+              2
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 36,
+          "from": 34,
+          "to": 10,
+          "shape": [
+            [
+              "L",
+              12,
+              2,
+              12,
+              4
+            ]
+          ],
+          "twoway": true,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 37,
+          "from": 4,
+          "to": 36,
+          "shape": [
+            [
+              "L",
+              4,
+              4,
+              3.999284,
+              5.0006227
+            ]
+          ],
+          "twoway": false,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 38,
+          "from": 35,
+          "to": 7,
+          "shape": [
+            [
+              "L",
+              7.999395,
+              5.0001607,
+              8,
+              4
+            ]
+          ],
+          "twoway": false,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        },
+        {
+          "id": 39,
+          "from": 36,
+          "to": 35,
+          "shape": [
+            [
+              "L",
+              3.999284,
+              5.0006227,
+              7.999395,
+              5.0001607
+            ]
+          ],
+          "twoway": false,
+          "reverse": false,
+          "max_speed": 0,
+          "lanes": 0
+        }
+      ],
+      "nodes": [
+        {
+          "id": 35,
+          "location": [
+            8.027576,
+            4.986126
+          ],
+          "nearbyNodes": []
+        },
+        {
+          "id": 36,
+          "location": [
+            3.9935212,
+            5.0284777
+          ],
+          "nearbyNodes": []
+        }
+      ],
+      "roads": [],
+      "id": 0,
+      "backgroundImageFile": "",
+      "backgroundImageOrigin": [
+        0,
+        0
+      ],
+      "backgroundImageScale": 1
+    }
+  ],
+  "agvs": [],
+  "plans": [],
+  "settings": {
+    "start": 0,
+    "end": 0,
+    "step": 0.1
+  },
+  "tasks": [],
+  "stations": []
+}
