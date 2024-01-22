@@ -1,12 +1,11 @@
 close all, clear all,  format bank
 agvSim=[]; hPot=[];  hPot=[];hText1=[];hText2=[];
 
-mapChoice=3;    %map choices:  1= Mwrh1, 2=Mwrh2, 3= Mgame
+mapChoice=1;    %map choices:  1= Mwrh1, 2=Mwrh2, 3= Mgame
+
 
 
 flagStoreFile=0;
-
-
 
 
 flagSafelocation=1;
@@ -15,9 +14,9 @@ switch mapChoice
     case 1      % enostavna mapa skladisca  10agv 52 ponovitev
         L=0.24; W=0.12; rr=sqrt((L)^2+(W)^2); % polovicna dolzina in sirina  AGV-ja za namen detekcije trka
         fcnBench.CCBSconfig(rr,30,0.1); %nastavis: robotSize,timeLimit,precision
-        mapCCBS_xml='Maps/simple_test3.xml';
-        fileScene =fileread('Scenarios/clanekAnaliza_Msimple_LLScenarij.txt');
-        fileResultsPSIPPL  ='Results/Test/clanekAnaliza_Msimple_LLM4_n.mat';  %
+        mapCCBS_xml='Maps/Mwrh1.xml';
+        fileScene =fileread('Scenarios/ScenarioLLPD_Mwrh1.txt');  
+        fileResultsPSIPPL  ='Results/Test/ResultLLPD_Mwrh1_M4.mat';  
         
         safetyMargin=1.6 ;
         preventCollision=1;  %=0 ne preverja trkov, =1 preverja trke, =2 ignorira trke a jih belež
@@ -29,9 +28,9 @@ switch mapChoice
     case 2      % Diganni 20 AGV 52 ponovitev iz slepih ulic
         L=0.24; W=0.12; rr=sqrt((L)^2+(W)^2); % polovicna dolzina in sirina  AGV-ja za namen detekcije trka
         fcnBench.CCBSconfig(rr,30,0.1); %nastavis: robotSize,timeLimit,precision
-        mapCCBS_xml='Maps/scenario_map_digani_01_01_out_fixedFinal2.xml';        
-        fileScene =fileread('Scenarios/clanekAnaliza_Mdigani20_LLScenarij.txt');
-        fileResultsPSIPPL='Results/Test/clanekAnaliza_Mdigani_LLM4.mat';
+        mapCCBS_xml='Maps/Mwrh2_Digani.xml';        
+        fileScene =fileread('Scenarios/ScenarioLLPD_Mwrh2.txt');
+        fileResultsPSIPPL='Results/Test/ResultLLPD_Mwrh2_M4.mat';
        
         safetyMargin=1.6 ; % bi bilo bolje dat malo vec zaradi malih ovinkov
         preventCollision=2;  %=0 ne preverja trkov, =1 preverja trke, =2 ignorira trke a jih belež
@@ -43,9 +42,9 @@ switch mapChoice
     case 3 % den520d 20 agv 52 ponovitev iz slepih ulic
         L=0.24*3; W=0.12*3; rr=sqrt((L)^2+(W)^2); % polovicna dolzina in sirina  AGV-ja za namen detekcije trka
         fcnBench.CCBSconfig(rr,30,0.1); %nastavis: robotSize,timeLimit,precision
-        mapCCBS_xml='Maps/_Primerjave/den520d_test6g.xml';
-        fileScene =fileread('Scenarios/clanekAnaliza_Mden520_LLScenarij.txt');
-        fileResultsPSIPPL  ='Results/Test/clanekAnaliza_Mden520A_LLM4_nearNode.mat';  % ni ok je brez NearByNodes
+        mapCCBS_xml='Maps/Mgame_den520d.xml';
+        fileScene =fileread('Scenarios/ScenarioLLPD_Mgame.txt'); 
+        fileResultsPSIPPL  ='Results/Test/ResultLLPD_Mgame_M4.mat';  
                 
         safetyMargin=1.6*0 +5; % vzamem velik margin, ker so ceste pod malim kotom
         preventCollision=2;  %=0 ne prevrja trkov, =1 preverja trke, =2 ignorira trke a jih belež
@@ -111,11 +110,11 @@ if 0  % simulacija celega niza planov v taskSol
     
      switch mapChoice
         case 1
-            load('Results/PickDrop/clanekAnaliza_Msimple_LLM4_n.mat')
+            load('Results/PickDrop/ResultLLPD_Mwrh1_M4.mat')
         case 2
-            load('Results/PickDrop/clanekAnaliza_Mdigani_LLM4.mat')
+            load('Results/PickDrop/ResultLLPD_Mwrh2_M4.mat')
         case 3
-            load('Results/PickDrop/clanekAnaliza_Mden520A_LLM4_nearNode.mat')
+            load('Results/PickDrop/ResultLLPD_Mgame_M4.mat')
      end
    
     
@@ -129,6 +128,7 @@ if 0  % simulacija celega niza planov v taskSol
     %hPot=[];hText1=[],hText2=[];
     showPaths=0;
     [hPot,hText1,hText2]=fcnBench.simulateLLPlansTaskSol(taskSol,Nagv,Ntasks,agvSim,L,W,Ts*2,preventCollision,'PSIPP LL-PickDrop',hPot,hText1,hText2,showPaths);
+
 end
 
 

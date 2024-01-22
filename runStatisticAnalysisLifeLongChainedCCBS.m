@@ -3,7 +3,8 @@ agvSim=[]; hPot=[];hText1=[]; hText2=[];  taskSolCCBS=[]; idxTasks=1; time=0;
 
 mapChoice=1;  %map choices:  1= Mwrh1, 2=Mwrh2, 3= Mgame
 
-flagStoreFile=1;
+
+flagStoreFile=0;
 
 fidResultCCBS=[];
 fileResultsCCBS=[];
@@ -12,11 +13,11 @@ flagSafelocation=0;
 switch mapChoice
     case 1      % enostavna mapa skladisca do 10agv 30 ponovitev
         L=0.24; W=0.12; rr=sqrt((L)^2+(W)^2); % half length and width of AGV
-        mapCCBS_xml='Maps/simple_test3.xml';
+        mapCCBS_xml='Maps/Mwrh1.xml';
         fcnBench.CCBSconfig(rr,30,0.1); %set: robotSize,timeLimit,precision
         
-        fileScene =fileread('Scenarios/clanekAnaliza_Msimple_SLLScenarij.txt');
-        fileResultsCCBS  ='Results/Test/clanekAnaliza_Msimple_SLLM5_n.txt';
+        fileScene =fileread('Scenarios/ScenarioLLC_Mwrh1.txt');
+        fileResultsCCBS  ='Results/Test/ResultLLC_Mwrh1_M5.txt';
         
         % Lifelong Single CCBS:
         % tMksAll =1703.79
@@ -25,23 +26,23 @@ switch mapChoice
         %===========================
     case 2      % Diganni 20 AGV 52 ponovitev iz slepih ulic
         L=0.24; W=0.12; rr=sqrt((L)^2+(W)^2); % half length and width of AGV
-        mapCCBS_xml='Maps/scenario_map_digani_01_01_out_fixedFinal2.xml';
+        mapCCBS_xml='Maps/Mwrh2_Digani.xml';
         fcnBench.CCBSconfig(rr,30,0.1); %set: robotSize,timeLimit,precision
         
-        fileScene =fileread('Scenarios/clanekAnaliza_Mdigani20_SLLScenarij.txt');
-        fileResultsCCBS  ='Results/Test/clanekAnaliza_Mdigani_SLLM5.txt';
+        fileScene =fileread('Scenarios/ScenarioLLC_Mwrh2.txt');
+        fileResultsCCBS  ='Results/Test/ResultLLC_Mwrh2_M5.txt';
         
         % tMksAll =7003.88
         % NitAll = 597270.00
         
         %===========================
     case 3 % den520d 20 agv 52 ponovitev iz slepih ulic
-        mapCCBS_xml='Maps/den520d_test6g.xml';
+        mapCCBS_xml='Maps/Mgame_den520d.xml';
         L=0.24*3; W=0.12*3; rr=sqrt((L)^2+(W)^2); % half length and width of AGV
         fcnBench.CCBSconfig(rr,30,0.1); %set: robotSize,timeLimit,precision
         
-        fileScene =fileread('Scenarios/clanekAnaliza_Mden520B_SLLScenarij.txt');
-        fileResultsCCBS  ='Results/Test/clanekAnaliza_Mden520B_SLLM5.txt';
+        fileScene =fileread('Scenarios/ScenarioLLC_Mgame.txt');
+        fileResultsCCBS  ='Results/Test/ResultLLC_Mgame_M5.txt';
         
         % successRate = 60.47
         % tMksAll = 21223.68
@@ -159,11 +160,11 @@ if 0  % simulate entire plan in taskSol
     
     switch mapChoice
         case 1
-            load('Results/Chained/clanekAnaliza_Msimple_SLLM5_n.mat')
+            load('Results/Chained/ResultLLC_Mwrh1_M5.mat')   
         case 2
-            load('Results/Chained/clanekAnaliza_Mdigani_SLLM5.mat')
+            load('Results/Chained/ResultLLC_Mwrh2_M5.mat')
         case 3
-            load('Results/Chained/clanekAnaliza_Mden520B_SLLM5.mat')
+            load('Results/Chained/ResultLLC_Mgame_M5.mat')
     end
     
     
@@ -177,6 +178,7 @@ if 0  % simulate entire plan in taskSol
     %hPot=[];hText1=[],hText2=[];
     showPaths=0;
     [hPot,hText1,hText2]=fcnBench.simulateLLPlansTaskSol(taskSolCCBS,Nagv,Ntasks,agvSim,L,W,2*Ts,preventCollision,'CCBS LL-ChainedSingleTasks',hPot,hText1,hText2,showPaths);
+
 end
 
 

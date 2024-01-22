@@ -15,11 +15,11 @@ switch mapChoice
     
     case 1      % enostavna mapa skladisca do 10agv 52 ponovitev (iz json mape simple_test3.xml)
         L=0.24; W=0.12; rr=sqrt((L)^2+(W)^2); % half length and width of AGV
-        mapCCBS_xml='Maps/simple_test3.xml';
+        mapCCBS_xml='Maps/Mwrh1.xml';
         fcnBench.CCBSconfig(rr,30,0.1); %set: robotSize,timeLimit,precision
         
-        fileScene =fileread('Scenarios/clanekAnaliza_Msimple_LLScenarij.txt');
-        fileResultsCCBS  ='Results/Test/clanekAnaliza_Msimple_LLM5_n.txt';
+        fileScene =fileread('Scenarios/ScenarioLLPD_Mwrh1.txt');
+        fileResultsCCBS  ='Results/Test/ResultLLPD_Mwrh1_M5.txt';
         
         % Lifelong Pick-Drop CCBS:
         % tMksAll = 3387.48
@@ -28,11 +28,11 @@ switch mapChoice
         %===============================
     case 2   % Diganni 20AGV 10 ponovitev iz slepih ulic
         L=0.24; W=0.12; rr=sqrt((L)^2+(W)^2); % % half length and width of AGV
-        mapCCBS_xml='Maps/scenario_map_digani_01_01_out_fixedFinal2.xml';
+        mapCCBS_xml='Maps/Mwrh2_Digani.xml';
         fcnBench.CCBSconfig(rr,30,0.1); %set: robotSize,timeLimit,precision
         
-        fileScene =fileread('Scenarios/clanekAnaliza_Mdigani20_LLScenarij.txt');
-        fileResultsCCBS  ='Results/Test/clanekAnaliza_Mdigani_LLM5.txt';
+        fileScene =fileread('Scenarios/ScenarioLLPD_Mwrh2.txt');
+        fileResultsCCBS  ='Results/Test/ResultLLPD_Mwrh2_M5.txt';
         
         % Lifelong CCBS:
         % tMksAll =13953.94
@@ -41,11 +41,11 @@ switch mapChoice
         %===============================
     case 3 % den520d 20 agv 52 ponovitev iz slepih ulic
         L=0.24*3; W=0.12*3; rr=sqrt((L)^2+(W)^2); % % half length and width of AGV
-        mapCCBS_xml='Maps/den520d_test6g.xml';
+        mapCCBS_xml='Maps/Mgame_den520d.xml';
         fcnBench.CCBSconfig(rr,30,0.1); %set: robotSize,timeLimit,precision
         
-        fileScene =fileread('Scenarios/clanekAnaliza_Mden520_LLScenarij.txt');
-        fileResultsCCBS  ='Results/Test/clanekAnaliza_Mden520A_LLM5.txt';
+        fileScene =fileread('Scenarios/ScenarioLLPD_Mgame.txt');
+        fileResultsCCBS  ='Results/Test/ResultLLPD_Mgame_M5.txt';
          %===============================
       
 end
@@ -194,11 +194,11 @@ if 0  % simulate  entire plan in taskSol
     
     switch mapChoice
         case 1
-            load('Results/PickDrop/clanekAnaliza_Msimple_LLM5_n.mat')
+            load('Results/PickDrop/ResultLLPD_Mwrh1_M5.mat')
         case 2
-            load('Results/PickDrop/clanekAnaliza_Mdigani_LLM5.mat')  % je prazen
+            load('Results/PickDrop/ResultLLPD_Mwrh2_M5.mat')  
         case 3
-            load('Results/PickDrop/clanekAnaliza_Mden520A_LLM5.mat') 
+            load('Results/PickDrop/ResultLLPD_Mgame_M5.mat') 
     end
     
     

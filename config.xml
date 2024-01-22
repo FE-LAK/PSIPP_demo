@@ -5,7 +5,7 @@
 		<use_disjoint_splitting>true</use_disjoint_splitting>		<hlh_type>2</hlh_type>
        <connectedness>3</connectedness>
        <focal_weight>1.0</focal_weight>
-       <agent_size>0.494975</agent_size>
+       <agent_size>0.268328</agent_size>
        <timelimit>30</timelimit>
        <precision>0.100000</precision>
 	</algorithm>
