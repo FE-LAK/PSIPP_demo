@@ -1757,6 +1757,12 @@ end
   
         if(twoway), rID21_=rID21; else rID21_=0; end
     
+        
+        if(len<1e-3)
+            
+            g=12
+        end
+        
   
         tableXYF=obj.computeTableXYF(len,secShape,secParam); 
         
