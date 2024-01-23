@@ -1,6 +1,6 @@
 close all, clear all,  %format bank
 
-mapChoice=3;   %map choices: 1 = Mwrh1, 2=Mwrh2, 3= Mgame
+mapChoice=1;   %map choices: 1 = Mwrh1, 2=Mwrh2, 3= Mgame
 
 
 
