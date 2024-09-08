@@ -1606,7 +1606,7 @@ classdef fcnBench
         %=================================================
         
         
-        function [PSIPPl,taskSol]=PSIPPLLplanPickDropLifeLong(Nstart,Tasks_,maxTask_,agvSim,L,W,Ts,safetyMargin,skipReplaneTime,preventCollision,chargeStation_)
+        function [PSIPPl,taskSol]=PSIPPLLplanPickDropLifeLong(Nstart,Tasks_,maxTask_,agvSim,L,W,Ts,safetyMargin,skipReplaneTime,preventCollision,chargeStation_,tw1,tw2)
             %
             %    result=PSIPPLLplanLifeLong(Nstart,Nend,agvSim,L,W,mode)
             %
@@ -1620,6 +1620,8 @@ classdef fcnBench
             %    skipReplaneTime        ..... Avoid successive unsuccessful replannings
             %    preventCollision       ..... =0 ne prevrja trkov, =1 preverja trke, =2 ignorira trke a jih beleži
             %    chargeStation_         ..... [chargeRoad,chargeEntranceNode,chargeEntranceRoad]
+            %    tw1                    ..... wait tine in PickUp
+            %    tw2                    ..... wait tine in DropOff
             %
             %    PSIPPl                 ..... [tMksAll, NitAll]
             %    taskSol                ..... plans for each task
@@ -1633,7 +1635,7 @@ classdef fcnBench
             fcnBench.clearOccupancies(agvSim);
             %safetyMargin=1.6+0.4*1; % za koliko povecam varnostno razdaljo
             %Ts=0.1*10; % Cas vzorcenja
-            zamikIzris=0.05;
+            zamikIzris=0.15;
             replanTime=0; % trenutek kdaj racunamo replaniranje
             
             tmax=50000; vmax=3;
@@ -1715,7 +1717,7 @@ classdef fcnBench
             
             agvSim.AGVsPlanAchived=0;
             
-            Ntasks=size(Tasks_,1); tw1=0; tw2=0;
+            Ntasks=size(Tasks_,1); %tw1=0; tw2=0;
             Ntasks=min(maxTask_,Ntasks);
             Tasks=[Tasks_(1:Ntasks,:), zeros(Ntasks,1),ones(Ntasks,1)*tw1,ones(Ntasks,1)*tw2];
             
@@ -1892,7 +1894,23 @@ classdef fcnBench
                                     if(~isempty(hText(agvID))), delete(hText(agvID)); end     % le za izpis plana
                                     % hText(agvID)= text(5,-.1-0.5*agvID,strcat('AGV',num2str(agvID),', T=',num2str(idxTasks),' ,', num2str(Tasks(idxTasks,1)),' ->',num2str(Tasks(idxTasks,2))));
                                     % hText(agvID)= text(270,230-10*agvID,strcat('AGV',num2str(agvID),', T=',num2str(idxTasks),', ', num2str(Tasks(idxTasks,1)),' ->',num2str(Tasks(idxTasks,2))));
-                                    hText(agvID)= text(280,230-10*agvID,strcat('T=',num2str(idxTasks),',',' AGV',num2str(agvID),' ...',num2str(Tasks(idxTasks,1)),'->',num2str(Tasks(idxTasks,2))));
+                                   % hText(agvID)= text(280,230-10*agvID,strcat('T=',num2str(idxTasks),',',' AGV',num2str(agvID),' ...',num2str(Tasks(idxTasks,1)),'->',num2str(Tasks(idxTasks,2))));
+                                    
+                                    % article Figure 7
+                                    startNode=start; 
+                                    if(length(start)>1), startNode=agvSim.roadID(start(1)).sNode; end
+                                    hText(agvID)= text(4.0,2-0.65*agvID,strcat('AGV',num2str(agvID),' ... ',num2str(startNode) ,' ->',num2str(Tasks(idxTasks,1)),' ->',num2str(Tasks(idxTasks,2)), ' ->',num2str(24)));
+                                   if 0  
+                                    if  mod(doneTasks,3)==0  % le za izris slik na vsake 3 planiranja
+                                     axis equal; axis([-.5,25,-.5,12.5]) ; xlabel('$$x [m]$$', 'interpreter', 'latex', 'FontSize', 12);  ylabel('$$y$$[m]', 'interpreter', 'latex', 'FontSize', 12);
+                                     %set(gcf,'PaperPosition',[1 1 4 3]) 
+                                     set(gcf,'PaperPosition',[1 1 8*.8 6*.8])
+                                     %print -depsc planiLepljenjaSL1
+                                     %print -depsc planiLepljenjaSL2
+                                     %print -depsc planiLepljenjaSL3
+                                     gg=1313131
+                                    end
+                                   end
                                     
                                 end
                                 
@@ -1900,6 +1918,7 @@ classdef fcnBench
                                 taskSol(idxTasks).agvID=agvID;
                                 taskSol(idxTasks).pickDrop=Tasks(idxTasks,1:2);
                                 taskSol(idxTasks).timePlan=timePlan;
+                                taskSol(idxTasks).timePlanSinc=agvSim.AGV(frejAgv).planRoadTimeSinc;
                                 taskSol(idxTasks).startRID=agvSim.AGV(frejAgv).onRoadID;
                                 taskSol(idxTasks).startLOC=agvSim.AGV(frejAgv).onRoadLoc;
                                 taskSol(idxTasks).startT=t;
@@ -1916,7 +1935,9 @@ classdef fcnBench
                                 
                                 
                                 %------ enostavno pobrisem vse zasedenosti ponornega mesta
+                                if(~isempty(agvSim.restNode))
                                 fcnSIPPContainer.clearNodeOccupancy(agvSim,agvSim.restNode)  ;
+                                end
                             end
                         end  % if  length(noviCilji)>0
                     end

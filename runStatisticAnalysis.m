@@ -1,7 +1,7 @@
 close all, clear all,  format bank
 agvSim=[]; hPot=[];
 
-mapChoice=0;   %map choices: 0=Msimp, 1(-1)= Mwrh1, 2=Mwrh2, 3= Mgame
+mapChoice=1;   %map choices: 0=Msimp, 1(-1)= Mwrh1, 2=Mwrh2, 3= Mgame
 
 
 flagStoreFile=0; % do we store results in file

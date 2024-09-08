@@ -98,12 +98,15 @@ classdef MapClass
 
                         isStart = plan(i, 5) == 1;
                         isGoal = plan(i, 5) == 2;
+                        isSafeLocation = plan(i, 5) == 3;
 
                         color = 'black';
                         if isStart
                             color = 'green';
                         elseif isGoal
                             color = 'red';
+                        elseif isSafeLocation
+                            color = 'blue';
                         end
 
                         rectangle('Position', [plan(i,1), (AGVoffset-lineHeight/2), w, lineHeight], 'FaceColor', color);
@@ -3433,6 +3436,8 @@ classdef MapClass
             obj.precomputeMap();
             MapClass.drawMap(obj);
         end
+        
+    
         %===================================================================
     end
 end

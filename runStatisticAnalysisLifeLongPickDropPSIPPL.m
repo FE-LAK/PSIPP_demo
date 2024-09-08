@@ -93,7 +93,7 @@ agvSim.DRAW =0;   % ali izrisujem, =0
 
 
 maxTask=size(Tasks,1);
-[PSIPPL,taskSol]=fcnBench.PSIPPLLplanPickDropLifeLong(Nstart,Tasks,maxTask,agvSim,L,W,Ts,safetyMargin,skipReplaneTime,preventCollision,chargeStation);
+[PSIPPL,taskSol]=fcnBench.PSIPPLLplanPickDropLifeLong(Nstart,Tasks,maxTask,agvSim,L,W,Ts,safetyMargin,skipReplaneTime,preventCollision,chargeStation,0,0);
 
 
 % store PEIPPL in file

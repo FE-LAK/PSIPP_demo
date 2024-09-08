@@ -1478,7 +1478,7 @@ function h=drawOnePlan(obj,agvID,fig,offset,locStart)
                end
                roadOld=road;
            end
-           h=plot(PP(1,:)+i*offset,PP(2,:)+i*offset,'Color',COLORS(iddc,:),'linewidth',1);
+           h=plot(PP(1,:)+i*offset,PP(2,:)+i*offset,'Color',COLORS(iddc,:),'linewidth',1.5);
         end            
 
   hold off  

@@ -138,7 +138,7 @@ while(~(agvSim.AGVsPlanAchived && idxTasks>Ntasks) && t<tmax)
                     taskSol(idxTasks).agvID=agvID;
                     taskSol(idxTasks).pickDrop=Tasks(idxTasks,1:2);
                     taskSol(idxTasks).timePlan=timePlan;
-                    taskSol(idxTasks).timePlanSinc=agvSim.AGV(agvID).planRoadTimeSinc;
+                    taskSol(idxTasks).timePlanSinc=agvSim.AGV(agvID).planRoadTimeSinc;  % GK 5sep2024: popravi agvID->frejAgv  to ni nujno isto (indeks na AGV ali agvID)
                     taskSol(idxTasks).startRID=agvSim.AGV(frejAgv).onRoadID;
                     taskSol(idxTasks).startLOC=agvSim.AGV(frejAgv).onRoadLoc;
                     taskSol(idxTasks).startT=t;
