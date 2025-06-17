@@ -461,7 +461,8 @@ classdef fcnBench
                                 
                                 % poskusim kar s PSIPPC, ce uspe, drugace vrnem NaN
                                 % PSIPPC
-                                [PSIPPC,AllTimePlans,hPot]=fcnBench.PSIPPXplan(Nstart,Nend,agvSim,Ts,L,W,hPot,flagSimulate,chargeStation,2,titleAlg);
+                                %[PSIPPC,AllTimePlans,hPot]=fcnBench.PSIPPXplan(Nstart,Nend,agvSim,Ts,                  L,W,hPot,flagSimulate,chargeStation,2,titleAlg);
+                                 [PSIPPC,AllTimePlans,hPot]=fcnBench.PSIPPXplan(Nstart,Nend,agvSim,Ts,tmax,safetyMargin,L,W,hPot,flagSimulate,chargeStation,2,titleAlg);
                                 PSIPPl=PSIPPC;    % probam kar s PSIPPc
                                 return
                             end
